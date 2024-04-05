@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-brand{
+    font-family: "Dancing Script", cursive;
+}
+
+#navbarNav a{
+    margin: 0 10px;
+}
+
+#navbarNav a:hover{
+    color: palevioletred;
+    font-style: bold;
+}
+
+.card h3{
+    font-family: "Playball", cursive;
+}

@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-brand{
+    font-family: 'Dancing Script';
+}
+
+#navbarNav a{
+    margin: 0 10px;
+}
+
+#navbarNav a:hover{
+    color: palevioletred;
+    font-style: bold;
+}
+
+.mision{
+    font-family: "Playball", cursive;
+}
+
+.vision{
+    font-family: "Playball", cursive;
+}
